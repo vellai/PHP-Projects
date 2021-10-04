@@ -28,6 +28,7 @@ echo $pc_vellai->merk;
 echo "<br />";
 echo $pc_vellai->spek;
 echo "<br />";
+
 // tampilkan method
 echo $pc_vellai->hidupkan_pc();
 echo "<br />";
